@@ -1,0 +1,71 @@
+.bg-green{
+    background-color: #d1fae8;
+
+
+}
+
+.body{
+    background-color: #ebebeb;
+
+}
+
+
+.kanit-medium {
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+.kanit-semibold {
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+
+.pridi-medium {
+    font-family: "Pridi", system-ui;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+.pridi-semibold {
+    font-family: "Pridi", system-ui;
+    font-weight: 600;
+    font-style: normal;
+  }
+   
+
+.mitr-medium {
+    font-family: "Mitr", system-ui;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+
+.serif-regular {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.serif-bold {
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+  }
+
+.p{
+    font-family: "Pridi", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.mt-7 {
+    margin-top: 7rem !important ;
+
+
+}
