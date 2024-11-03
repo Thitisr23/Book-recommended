@@ -34,7 +34,12 @@ body, html {
     font-style: normal;
   }
 
-
+.pridi-regular {
+    font-family: "Pridi", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
 .pridi-medium {
     font-family: "Pridi", system-ui;
     font-weight: 500;
